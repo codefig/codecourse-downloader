@@ -1,5 +1,5 @@
 # Codecourse Downloader
-
+# Helps download course materials from http://www.codecourse.com
 *it seems vimeo.com (video stream provider) implemented rate limit. So you can get errors till figure out a new way.*
 
 Download codecourse.com videos.
